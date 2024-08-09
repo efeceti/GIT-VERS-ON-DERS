@@ -1,0 +1,9 @@
+Git Temel Kavramları
+
+
+Repostory(Depo)
+
+Commit
+
+
+Branch(Dal)
